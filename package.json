@@ -1,0 +1,27 @@
+{
+  "name": "preposlogsactividad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maityado/preposlogsactividad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maityado/preposlogsactividad/issues"
+  },
+  "homepage": "https://github.com/maityado/preposlogsactividad#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.1"
+  }
+}
